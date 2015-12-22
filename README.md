@@ -1,4 +1,4 @@
-PhantomCraft
+Tales of Worlds: Paeria
 ============
 
 My custom mod
